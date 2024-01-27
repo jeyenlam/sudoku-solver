@@ -1,4 +1,4 @@
-# plain-sudoku-solver
+# sudoku-solver
 
 <p align="center">a plain, API integrated sudoko solver that was completed for practice purposes</p>
 
